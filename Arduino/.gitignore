@@ -1,0 +1,32 @@
+# Arduino compiled files
+*.elf
+*.hex
+*.bin
+*.lock
+*.map
+*.tmk
+*.pp
+*.d
+*.o
+*.a
+*.sym
+*.eep
+*.lst
+*.sx
+*.s
+*.m
+
+# Arduino IDE
+.arduino15/
+.arduino/
+build/
+local/
+
+# Serial monitor output
+monitor.txt
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
